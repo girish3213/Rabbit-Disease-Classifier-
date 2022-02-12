@@ -8,5 +8,7 @@ So, SMOTE (Synthetic Minority Oversampling Technique) has been applied. SMOTE he
 
 # Target 
 0--> Healthy Rabbit
+
+
 1--> Unhealthy Rabbit 
                                                   
